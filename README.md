@@ -7,18 +7,31 @@ Star Wars: Rouge
 Plot
 Crash landed on planet(?) that is under at war between republic and sith
 
-Classes
+Classes(?)
+or just start out as same but have different stats, no specific classes but can become them at a later stage
 
 - Trooper
+  - Rebellion
+      - Rifleman
+      - Commander
+      - Rebel spy
+      - Close combat specialist
+          - Pistols and melee weapons
+  - Imperial
+      - Rifleman
+      - Commander
+      - Impeiral intelligence
+      - Close combat specialist
+          - Pistols and melee weapons
 - Force user
 - Bounty hunter
--
+- 
 
 Reputation?
 
-- Republic
+- Alliance
 - Neutral
-- Sith
+- Imperial
 
 Crafting
 
